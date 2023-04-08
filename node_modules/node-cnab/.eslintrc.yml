@@ -1,0 +1,7 @@
+extends: airbnb-base
+plugins:
+  - import
+rules:
+  arrow-body-style: 0
+env:
+  mocha: true
